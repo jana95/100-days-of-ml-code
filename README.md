@@ -3,7 +3,7 @@ ml
 # 100 days of ml code
 100 days of machine learning code as proposed by [siraj ravel](https://github.com/llSourcell)
 # Day 1|Data Prepocessing
-The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%201.ipynb)
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%202.ipynb)
 
 
 data prepocessing is importing the data ,data integration,data cleaning,Encoding categorical data and splitting the data into training and test data
@@ -14,4 +14,5 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 
 Linear Regression is a method to predict dependent variable(Y) based on independent variables(X)
 The equation of straight line y=mx+c
-In this we create a model that takes features of the house and from it predicts the price of the house
+
+In this  [code](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%202.ipynb) we create a model that takes features of the house and from it predicts the price of the house

@@ -8,3 +8,10 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 
 data prepocessing is importing the data ,data integration,data cleaning,Encoding categorical data and splitting the data into training and test data
 data preprocessing is the part where more time of machine learning is spent
+# Day 2|Linear Regression
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%201.ipynb)
+
+
+Linear Regression is a method to predict dependent variable(Y) based on independent variables(X)
+The equation of straight line y=mx+c
+In this we create a model that takes features of the house and from it predicts the price of the house

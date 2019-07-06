@@ -29,3 +29,9 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 
 Logistic regression is to solve classification problems.the output of the model will be a binary value.
 Logistic regression gives a discrete output
+
+# Day 5|Logistic Regression
+
+Watched a edureka video of regression(linear and logistic regression) and Los function calculation and how it is minimized
+
+# Day 6|Logistic Regression

@@ -24,6 +24,8 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 Congratulations! You just got some contract work with an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. They've hired you on contract to help them figure it out! Let's get started!
 # Day 4|Logistic Regression
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%204.ipynb)
+
 
 Logistic regression is to solve classification problems.the output of the model will be a binary value.
 Logistic regression gives a discrete output

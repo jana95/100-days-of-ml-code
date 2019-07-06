@@ -35,3 +35,5 @@ Logistic regression gives a discrete output
 Watched a edureka video of regression(linear and logistic regression) and Los function calculation and how it is minimized
 
 # Day 6|Logistic Regression
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)

@@ -37,3 +37,13 @@ Watched a edureka video of regression(linear and logistic regression) and Los fu
 # Day 6|Logistic Regression
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)
+
+Implementation of logistic regression
+
+# Day 7|K Nearest Neighbours
+
+knn is non parametric and instance based algorithm ,it is used for supervised learning.data is classified as the label of most of nearest data points,distance can be calculated by using Eucledian distance
+
+# Day 9|Knn implementation
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)

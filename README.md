@@ -44,6 +44,8 @@ Implementation of logistic regression
 
 knn is non parametric and instance based algorithm ,it is used for supervised learning.data is classified as the label of most of nearest data points,distance can be calculated by using Eucledian distance
 
-# Day 9|Knn implementation
+# Day 8|Knn implementation
 
-The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%208.ipynb)
+
+knn is very helpfull when we need to classify a dataset without knowing the features or attributes of data.when we no idea about the data knn helps to classify them

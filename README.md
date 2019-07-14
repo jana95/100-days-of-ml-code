@@ -58,4 +58,7 @@ This article gave a clear insight on logistic regression.it gives a detailed exp
 
 Got a intution on svm ,watch siraj ravel's video on svm(math of intelligence)
 
+# Day 11|Implemting svm
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)
 

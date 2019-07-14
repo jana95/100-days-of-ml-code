@@ -52,4 +52,4 @@ knn is very helpfull when we need to classify a dataset without knowing the feat
 
 # Day 9|Math behind logistic Regression
 
-This article gave a clear insight on logistic regression.it gives a detailed explanation and math behind logistic regression  [(https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc]
+This article gave a clear insight on logistic regression.it gives a detailed explanation and math behind logistic regression  [(https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc]  by Saishruthi Swaminathan

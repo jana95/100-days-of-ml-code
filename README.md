@@ -62,3 +62,4 @@ Got a intution on svm ,watch siraj ravel's video on svm(math of intelligence)
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)
 
+

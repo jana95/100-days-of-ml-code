@@ -60,6 +60,18 @@ Got a intution on svm ,watch siraj ravel's video on svm(math of intelligence)
 
 # Day 11|Implemting svm
 
-The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%205.ipynb)
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2011.ipynb)
+
+# Day 12| Book
+
+first two chapters of Hands on machine learning with scikit learn and tensorflow
+
+# Day 13|SVM 
+
+implemented svm for iris dataset
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2013.ipynb)
+
+
 
 

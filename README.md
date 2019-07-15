@@ -72,6 +72,10 @@ implemented svm for iris dataset
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2013.ipynb)
 
+# Day 14|Naive bayes Classifier
+
+went through naive bayes classifier
+
 
 
 

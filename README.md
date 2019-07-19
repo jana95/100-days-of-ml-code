@@ -82,6 +82,10 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 
 Different tyes of naive bayes and implemented gaussian Naive bayes
 
+# Day 16| SVM using kernel trick
+
+Implementation of support vector machines using kernel trick
+
 
 
 

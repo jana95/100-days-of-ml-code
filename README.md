@@ -86,6 +86,7 @@ Different tyes of naive bayes and implemented gaussian Naive bayes
 
 Implementation of support vector machines using kernel trick
 
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2016.ipynb)
 
 
 

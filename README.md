@@ -76,6 +76,12 @@ The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Co
 
 went through naive bayes classifier
 
+# Day 15|Naive bayes implementation
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2015.ipynb)
+
+Different tyes of naive bayes and implemented gaussian Naive bayes
+
 
 
 

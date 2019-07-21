@@ -88,5 +88,13 @@ Implementation of support vector machines using kernel trick
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2016.ipynb)
 
+# Day 17|Deep learning specialization
+
+! st week of neural networks and deep learning
+
+# Day 18|Deep learning specialization
+
+2nd week of neural networks and deep learning and implemented a logisic regression  neural network
+
 
 

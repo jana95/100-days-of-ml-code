@@ -102,7 +102,7 @@ decision tree videos on edureka
 
 # Day 20| Decision Tree implementation
 
-The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2016.ipynb)
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2020.ipynb)
 
 
 

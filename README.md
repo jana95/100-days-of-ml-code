@@ -104,6 +104,15 @@ decision tree videos on edureka
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2020.ipynb)
 
+# Day 21| Random Forest
+
+Since decision trees get overfitted we use random forests,random forests contains many decision trees
+
+# Day 22| Random Forest implementation
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2022.ipynb)
+
+
 
 
 

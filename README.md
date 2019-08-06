@@ -112,6 +112,14 @@ Since decision trees get overfitted we use random forests,random forests contain
 
 The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2022.ipynb)
 
+# Day 23| Black box machine learning
+
+Started bloomerang machine learning series ,first lecture black box machine learning on youtube
+
+# Day 24| Bloomerang
+
+Second lecture on bloomerang about a test case
+
 
 
 

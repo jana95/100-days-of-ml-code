@@ -120,6 +120,12 @@ Started bloomerang machine learning series ,first lecture black box machine lear
 
 Second lecture on bloomerang about a test case
 
+# Day 25 | The Learning Problem
+
+Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. It was basically an introduction to the upcoming lectures. He also explained Perceptron Algorithm.
+
+
+
 
 
 

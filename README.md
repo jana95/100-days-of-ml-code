@@ -124,7 +124,17 @@ Second lecture on bloomerang about a test case
 
 Started Lecture 1 of 18 of Caltech's Machine Learning Course - CS 156 by Professor Yaser Abu-Mostafa. It was basically an introduction to the upcoming lectures. He also explained Perceptron Algorithm.
 
+# Day 26 | Dimensonality reduction
 
+Dimensonality reduction videos 
+
+# Day 27 | Principal Component Analysis
+
+PCA is a unsupervised learning algorithm .PCA converts high dimension data into low dimension data .pca return only given a number of features which has high variance.Pca helps to avoid overfitting and also to remove unrelated data features
+
+# Day 28 | PCA Implementation
+
+The code is  [here](https://github.com/jana95/100-days-of-ml-code/blob/master/Code/day%2028.ipynb)
 
 
 
